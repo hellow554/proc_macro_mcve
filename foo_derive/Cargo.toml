@@ -9,4 +9,3 @@ proc-macro = true
 [dependencies]
 syn = "*"
 quote = "*"
-foo_dump = { path = "../foo_dump" }

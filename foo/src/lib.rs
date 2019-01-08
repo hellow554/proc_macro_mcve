@@ -1,7 +1,5 @@
+use foo_core::{P1, P2};
 use foo_derive::Dump;
-
-struct P1;
-struct P2;
 
 #[derive(Dump)]
 struct Bar {

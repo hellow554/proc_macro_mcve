@@ -1,6 +1,7 @@
 [workspace]
 members = [
     "foo",
+    "foo_core",
     "foo_derive",
     "foo_dump",
 ]

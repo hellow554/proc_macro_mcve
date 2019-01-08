@@ -5,3 +5,5 @@ edition = "2018"
 
 [dependencies]
 foo_derive = { path = "../foo_derive" }
+foo_dump = { path = "../foo_dump" }
+foo_core = { path = "../foo_core" }
