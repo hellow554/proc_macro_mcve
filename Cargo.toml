@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "foo",
+    "foo_derive",
+    "foo_dump",
+]
